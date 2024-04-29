@@ -3,7 +3,22 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/adrian-cidre/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://adrian-cidre.com/about)
 
+### Introduction
+
 Adrian Cidre is a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models applied to Forest Management. A. Cidre is currently working at the Norwegian University of Life Sciences as a Research Assistant.
+A. Cidre is also teaching R through the Udemy platform (more info below).
+
+### Projects
+
+- [rpostgis](https://cidree.github.io/rpostgis/): An R package providing an interface between R and PostGIS-enabled PostgreSQL databses.
+- [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources (not published on CRAN).
+
+### Courses
+
+- [Introduction to Spatial Data Analysis with R](https://adrian-cidre.com/02_courses/03_spatial_data_en)
+- [Introduccion a Analisis de Datos Espaciales y SIG en R](https://adrian-cidre.com/02_courses/02_spatial_data_es)
+- [Quarto - DiseÑo de documentos profesionales en RStudio](https://adrian-cidre.com/02_courses/00_quarto_es)
+- [Introduccion a Analisis y Visualizacion de Datos en R](https://adrian-cidre.com/02_courses/01_data_analysis_es)
 
 <!--
 **Cidree/Cidree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
