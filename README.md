@@ -1,7 +1,11 @@
-## Adrian Cidre
+<div align='center'>
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/adrian-cidre/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://adrian-cidre.com/about)
+  ## Adrian Cidre
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/adrian-cidre/)
+  [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://adrian-cidre.com/about)
+</div>
+
 
 ### Introduction
 
