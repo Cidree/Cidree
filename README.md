@@ -12,6 +12,7 @@ A. Cidre is also teaching R through the Udemy platform (more info below).
 
 - [rpostgis](https://cidree.github.io/rpostgis/): An R package providing an interface between R and PostGIS-enabled PostgreSQL databses.
 - [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources (not published on CRAN).
+- [duckspatial](https://github.com/Cidree/duckspatial): A small wrapper around reading/writting functions to DuckDB database in R (not published on CRAN).
 
 ### Courses
 
