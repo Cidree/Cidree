@@ -5,8 +5,7 @@
 
 ### Introduction
 
-Adrian Cidre is a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models applied to Forest Management. A. Cidre is currently working at the Norwegian University of Life Sciences as a Research Assistant.
-A. Cidre is also teaching R through the Udemy platform (more info below).
+I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models applied to Forest Management. I am currently working at the Norwegian University of Life Sciences as a Research Assistant, and also teaching R through the Udemy platform (more info below).
 
 ### Projects
 
