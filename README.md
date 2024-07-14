@@ -19,6 +19,7 @@ I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models
 
 ### Courses
 
+- [Mastering R: Best Practices and Essential Tools](https://adrian-cidre.com/02_courses/05_best_r_practices.html)
 - [Introduction to Spatial Data Analysis with R](https://adrian-cidre.com/02_courses/03_spatial_data_en)
 - [Introduccion a Analisis de Datos Espaciales y SIG en R](https://adrian-cidre.com/02_courses/02_spatial_data_es)
 - [Quarto - DiseÑo de documentos profesionales en RStudio](https://adrian-cidre.com/02_courses/00_quarto_es)
