@@ -9,12 +9,13 @@
 
 ### Introduction
 
-I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models applied to Forest Management. I am currently working at the Norwegian University of Life Sciences as a Research Assistant, and also teaching R through the Udemy platform (more info below).
+I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models applied to Forest Management. I am currently working at the University of Córdoba (Spain) as Forestry Researcher, and also teaching R through the Udemy platform (more info below).
 
 ### Projects
 
 - [rpostgis](https://cidree.github.io/rpostgis/): An R package providing an interface between R and PostGIS-enabled PostgreSQL databses.
-- [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources (not published on CRAN).
+- [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources.
+- [silviculture](https://github.com/Cidree/silviculture): An R package to accelerate the analysis of forest inventory data (not published on CRAN).
 - [duckspatial](https://github.com/Cidree/duckspatial): A small wrapper around reading/writting functions to DuckDB database in R (not published on CRAN).
 
 ### Courses
