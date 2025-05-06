@@ -13,7 +13,7 @@ I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models
 
 ### Projects
 
-- [duckspatial](https://github.com/Cidree/duckspatial): A small wrapper around reading/writting functions to DuckDB database in R (not published on CRAN).
+- [duckspatial](https://github.com/Cidree/duckspatial): A small wrapper around reading/writting functions to DuckDB database in R.
 - [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources.
 - [OTBsegm](https://github.com/Cidree/OTBsegm): An R package for unsupervised segmentation algorithms included in [Orfeo ToolBox](https://www.orfeo-toolbox.org/)
 - [rpostgis](https://cidree.github.io/rpostgis/): An R package providing an interface between R and PostGIS-enabled PostgreSQL databses.
