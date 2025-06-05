@@ -17,7 +17,12 @@ I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models
 - [forestdata](https://github.com/Cidree/forestdata): An R package with some functions to retrieve forestry and land cover data from various sources.
 - [OTBsegm](https://github.com/Cidree/OTBsegm): An R package for unsupervised segmentation algorithms included in [Orfeo ToolBox](https://www.orfeo-toolbox.org/)
 - [rpostgis](https://cidree.github.io/rpostgis/): An R package providing an interface between R and PostGIS-enabled PostgreSQL databses.
-- [silviculture](https://github.com/Cidree/silviculture): An R package to accelerate the analysis of forest inventory data (not published on CRAN).
+- [silviculture](https://github.com/Cidree/silviculture): An R package to accelerate the analysis of forest inventory data.
+
+### GitHub stats
+
+[![Cidree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cidree&rank_icon=github&theme=transparent)](https://github.com/Cidree) 
+
 
 ### Courses
 
