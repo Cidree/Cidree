@@ -23,6 +23,9 @@ I am a Forest Engineer with Msc. in Geomatics, Remote Sensing and Spatial Models
 
 [![Cidree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cidree&rank_icon=github&theme=transparent)](https://github.com/Cidree) 
 
+### Most used languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cidree&hide=javascript,html,css,scss,tex,ts,php&langs_count=2&theme=transparent&layout=compact)
 
 ### Courses
 
